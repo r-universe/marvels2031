@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NBDesign"]
+	path = NBDesign
+	url = https://github.com/cran/NBDesign
+	shallow = true
+	registered = true
+[submodule "PBRF"]
+	path = PBRF
+	url = https://github.com/cran/PBRF
+	shallow = true
+	registered = true
+[submodule "PWEALL"]
+	path = PWEALL
+	url = https://github.com/cran/PWEALL
+	shallow = true
+	registered = true
+[submodule "WLreg"]
+	path = WLreg
+	url = https://github.com/cran/WLreg
+	shallow = true
+	registered = true
+[submodule "WWR"]
+	path = WWR
+	url = https://github.com/cran/WWR
+	shallow = true
+	registered = true
