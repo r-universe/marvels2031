@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MultiGroupSequential"]
+	path = MultiGroupSequential
+	url = https://github.com/marvels2031/multigroupsequential
+	shallow = true
+	registered = true
 [submodule "NBDesign"]
 	path = NBDesign
 	url = https://github.com/cran/NBDesign
