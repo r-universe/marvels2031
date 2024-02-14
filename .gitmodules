@@ -8,15 +8,9 @@
 [submodule "NBDesign"]
 	path = NBDesign
 	url = https://github.com/cran/NBDesign
-[submodule "PBRF"]
-	path = PBRF
-	url = https://github.com/cran/PBRF
 [submodule "PWEALL"]
 	path = PWEALL
 	url = https://github.com/cran/PWEALL
 [submodule "WLreg"]
 	path = WLreg
 	url = https://github.com/cran/WLreg
-[submodule "WWR"]
-	path = WWR
-	url = https://github.com/cran/WWR
