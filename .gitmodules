@@ -5,12 +5,3 @@
 [submodule "MultiGroupSequential"]
 	path = MultiGroupSequential
 	url = https://github.com/marvels2031/multigroupsequential
-[submodule "NBDesign"]
-	path = NBDesign
-	url = https://github.com/cran/NBDesign
-[submodule "PWEALL"]
-	path = PWEALL
-	url = https://github.com/cran/PWEALL
-[submodule "WLreg"]
-	path = WLreg
-	url = https://github.com/cran/WLreg
